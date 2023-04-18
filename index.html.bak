@@ -1,29 +1,25 @@
 <!doctype html>
 <html>
 <head>
-
 <title>
 Le Qi's Website
 </title>
+<link rel='stylesheet' href='style.css'>
 </head>
 <body>
-<h1>Welcome to my webpage</h1>
-<h2>Here is a list of cool stuff that I've done:</h2>
-<h3>2023:</h3>
-<p>
-<a href="https://buildingblocs.sg">BuildingBloCS OIC</a><br>
-<a href="https://gcc.ac/">Global Cybersecurity Camp Participant</a><br>
-<a href="https://www.science.edu.sg/docs/default-source/scs-documents/for-schools/competitions/ssef/2023/ssef2023_mc-results_for-website-publishing.pdf">SSEF Merit</a>
-</p>
-<br>
-<h1>Want to contact me</h1>
-<form action="index.html" method="get">
-    <label for="email">Email</label>
-    <input type='email' id = 'email'>
-	<br>
-	<textarea name="feedback">Enter feedback here.</textarea>
-	<br>
-	<input type='submit'>
-</form>	
+<h1 style="font-family:sans-serif; font-size: 110px; font-weight: bold; color: white;">Yau Le Qi</h1>
+<img src="leqi.png" alt="what a sexy man" style=" width: 30%;">
+<h1>Here is my list of Achievements</h1>
+<ul>
+<p>BuildingBloCS Overall-In-Charge</p>
+<p>A Novel Feature Vector for
+AI-assisted Windows Malware Detection: Project Leader, won SSEF Merit</p>
+<p>Global Cybersecurity Camp Participant, one of six people to represent Singapore</p>
+<p>Team Nirvana Group Leader</p>
+<p>CSIT Computing Scholar</p>
+<p>Peer Support Leader</p>
+<p>Infocomm Vice Crew Leader</p>
+<p>Interned at DSTA</p>
+</ul>
 </body>
 </html>
