@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<title>
+Le Qi's Website
+</title>
+<link rel='stylesheet' href='style.css'>
+</head>
+<body>
+<h1 style="font-family:sans-serif; font-size: 110px; font-weight: bold; color: white;">Yau Le Qi</h1>
+<img src="bryant.jpeg" alt="gay man" style=" width: 30%;">
+<h1>Here is my list of Achievements</h1>
+<ul>
+<p>BuildingBloCS Overall-In-Charge</p>
+<p>A Novel Feature Vector for
+AI-assisted Windows Malware Detection: Project Leader, won SSEF Merit, currently submitting to publish</p>
+<p>Global Cybersecurity Camp Participant, one of six people to represent Singapore</p>
+<p>Team Nirvana Group Leader</p>
+<p>CSIT Computing Scholar</p>
+<p>Peer Support Leader</p>
+<p>Infocomm Vice Crew Leader</p>
+</ul>
+</body>
+</html>

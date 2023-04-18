@@ -1,0 +1,13 @@
+body {
+	background: url(tile.png);
+	text-align: center;
+	margin-left:15%;
+	margin-right:15%;
+	font-family: sans-serif;
+	color: yellow;
+}
+
+
+body p{
+	font-size: 30px;
+}
